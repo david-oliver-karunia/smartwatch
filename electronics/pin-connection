@@ -1,0 +1,12 @@
+# Pin Connections
+
+| Component | Pin | Microcontroller connection |
+|---|---|---|
+| Heart-rate sensor | VCC | [pin or voltage] |
+| Heart-rate sensor | GND | GND |
+| Heart-rate sensor | SDA | [pin] |
+| Heart-rate sensor | SCL | [pin] |
+| Display | VCC | [pin or voltage] |
+| Display | GND | GND |
+| Display | SDA | [pin] |
+| Display | SCL | [pin] |
